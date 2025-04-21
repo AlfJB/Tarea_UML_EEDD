@@ -3,10 +3,11 @@
 # Autor
     Alfonso José Bustos González
     Github: AlfJB
-    Enlace al repositorio: 
+    Enlace al repositorio: https://github.com/AlfJB/Tarea_UML_EEDD.git
 
+# Descripción del proyecto
 
-Actividad dónde aplicaremos el sistema UML para la modelación de estructura y funcionalidad de la gestión de equipos y sus jugadores.
+Actividad dónde aplicaremos el sistema UML para la modelación de estructura y funcionalidad de la gestión de equipos y sus jugadores. Para ello haremos el diagrama de caso de uso y el de clases correspondientes.
 
 **Diagrama de caso de uso**:
 
