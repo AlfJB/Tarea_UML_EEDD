@@ -10,7 +10,7 @@ Actividad dónde aplicaremos el sistema UML para la modelación de estructura y 
 
 **Diagrama de caso de uso**:
 
-![Diagrama de caso de uso realizado]()
+    ![Diagrama de caso de uso realizado](diagramas/Diagrama caso de uso.png)
 
     Para realizar el caso de uso debemos identificar a los actores, en este caso correspondería al gestor del equipo, quién interaccionará con nuestra aplicación.
 
@@ -18,7 +18,7 @@ Actividad dónde aplicaremos el sistema UML para la modelación de estructura y 
 
 **Diagrama de clases**:
 
-![Diagrama de clases realizado]()
+    ![Diagrama de clases realizado](diagramas/Diagrama de clases.png)
 
     Para realizar el diagrama de clases debemos identificar las entidades existentes, siendo en este caso equipo y jugador. Por ello como se ve he creado ambas entidades dandole atributos privados que se puedan acceder con los respectivos métodos públicos. Teniendo un constructo con el nombre de la entidad (equipo y jugador) además de otros métodos equivalentes. La relación entre ambas entidades son de 1 a muchos, siendo solamente posible la existencia de 1 equipo para muchos jugadores, ya que un jugador no podría pertenecer a muchos equipos y viceversa. La relación es fichar, siendo los jugadores fichados por un equipo.
 
